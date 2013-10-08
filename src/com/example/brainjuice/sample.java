@@ -6,4 +6,6 @@ public class sample {
 	public String returnTest(){
 		return this.hello;
 	}
+	
+	public void doNothing(){}
 }
